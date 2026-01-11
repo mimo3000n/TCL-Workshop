@@ -6,7 +6,7 @@ We will implement a TCL-box with read csv file which is passed an an argument to
 The prorgam will analyse input, run differen commands like yosys,... and generate a timing file at the end which is shown as output.
 
 
-i try to use local wsl environment for workshop, i personally prefer it insted using a vdi.
+i try to use local wsl environment for workshop, i personally prefer it insted using a VM.
 
 preparation of wsl for workshop:
 
