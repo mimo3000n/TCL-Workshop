@@ -10,6 +10,18 @@ i try to use local wsl environment for workshop, i personally prefer it insted u
 
 preparation of wsl for workshop:
 
+i am using a ubuntu 24.04 installation on my pc in wsl environmaent!
+
+``` cmd
+
+PS C:\Users\mimo3> wsl -l -v
+  NAME            STATE           VERSION
+* Ubuntu-24.04    Running         2
+  Ubuntu          Stopped         2
+PS C:\Users\mimo3>
+
+```
+
 we have to install tcsh, yosys, build-essential (need for g++), cmake
 
 ``` cmd
