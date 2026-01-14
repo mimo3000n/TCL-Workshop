@@ -1,5 +1,19 @@
 # TCL-Workshop
-VSD TCL Workshop
+
+--------------------------------------------------------------------------------------------------------------
+
+&nbsp;
+<img width="896" height="627" alt="image" src="https://github.com/user-attachments/assets/c9120089-2464-4a21-af47-e8aec809ae52" />
+&nbsp;
+
+## Overview:
+
+A Hands-On Workshop to Tackle Scripting based Questions in Synthesis, Physical design and STA roles. This transformative 10-day workshop equips participants with advanced TCL scripting skills for automating digital design flows. The journey begins with TCL fundamentals and extends into complex topics such as constraints parsing, memory module synthesis with Yosys, and quality of results (QOR) analysis. The program is tailored for professionals and students requiring industry-grade lab certification from VSD.
+
+--------------------------------------------------------------------------------------------------------
+
+
+## VSD TCL Workshop
 
 Goal of this workshop is getting familiar with TCL programming.
 We will implement a TCL-box with read csv file which is passed an an argument to the TCL program.
